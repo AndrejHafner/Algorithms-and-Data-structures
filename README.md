@@ -1,4 +1,4 @@
-# Algorithms and-Data structures
+# Algorithms and data structures
 Algorithm implementations and different data structures
 - Fast Fourier transform
 - Matrix multiplication (ordinary, naive divide and conquer, Strassen algorithm)
